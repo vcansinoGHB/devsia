@@ -1,0 +1,17 @@
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\appsettings.json
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\devSia.deps.json
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\devSia.runtimeconfig.json
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\devSia.runtimeconfig.dev.json
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\devSia.dll
+C:\testreact\backend\devSia\devSia\bin\Release\netcoreapp2.1\devSia.pdb
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.csprojAssemblyReference.cache
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.RazorAssemblyInfo.cache
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.RazorAssemblyInfo.cs
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.AssemblyInfoInputs.cache
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.AssemblyInfo.cs
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.RazorTargetAssemblyInfo.cache
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.dll
+C:\testreact\backend\devSia\devSia\obj\Release\netcoreapp2.1\devSia.pdb
